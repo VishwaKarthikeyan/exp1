@@ -1,11 +1,11 @@
 <table style="width:100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <th style="width: 60%;">Prompt</th> 
-    <th style="width: 8%;">DALL·E 3</th>
-    <th style="width: 8%;">ImageGen 3</th>
-    <th style="width: 8%;">ImageGen 2</th>
-    <th style="width: 8%;">Janus-Pro-7B</th>
-    <th style="width: 8%;">Stable Diffusion</th>
+    <th style="width: 40%;">Prompt</th> 
+    <th style="width: 10%;">DALL·E 3</th>
+    <th style="width: 10%;">ImageGen 3</th>
+    <th style="width: 10%;">ImageGen 2</th>
+    <th style="width: 10%;">Janus-Pro-7B</th>
+    <th style="width: 10%;">Stable Diffusion</th>
   </tr>
   <tr>
     <td>
