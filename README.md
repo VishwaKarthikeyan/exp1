@@ -7,16 +7,16 @@
     <th style="width: 8%;">Janus-Pro-7B</th>
     <th style="width: 8%;">Stable Diffusion</th>
   </tr>
-  <tr>
-    <td>
-      A man in his 30s with a slight stubble, wearing a dark jacket, standing in a farm holding a fertilizer named EcoGrow Fertilizer with fertilizer name being visible in the image.
-    </td>
-    <td><img src="output\\Dall-E 3\\prompt1.png" alt="DALL·E 3" style="width:60%;"></td>
-    <td><img src="output\\Dall-E 3\\prompt1.png0" alt="ImageGen 3" style="width:8%;"></td>
-    <td><img src="output\\Dall-E 3\\prompt1.png" alt="ImageGen 2" style="width:8%;"></td>
-    <td><img src="output\\Dall-E 3\\prompt1.png" alt="Janus-Pro-7B" style="width:8%;"></td>
-    <td><img src="output\\Dall-E 3\\prompt1.png" alt="Stable Diffusion" style="width:8%;"></td>
-  </tr>
+<tr>
+  <td style="width:60%;">
+    A man in his 30s with a slight stubble, wearing a dark jacket, standing in a farm holding a fertilizer named EcoGrow Fertilizer with the fertilizer name being visible in the image.
+  </td>
+  <td><img src="output/Dall-E 3/prompt1.png" alt="DALL·E 3" style="width:8%;"></td>
+  <td><img src="output/Dall-E 3/prompt1.png0" alt="ImageGen 3" style="width:8%;"></td>
+  <td><img src="output/Dall-E 3/prompt1.png" alt="ImageGen 2" style="width:8%;"></td>
+  <td><img src="output/Dall-E 3/prompt1.png" alt="Janus-Pro-7B" style="width:8%;"></td>
+  <td><img src="output/Dall-E 3/prompt1.png" alt="Stable Diffusion" style="width:8%;"></td>
+</tr>
   <tr>
     <td>
       A man in his 30s with a slight stubble, wearing a dark jacket, standing in a farm holding a fertilizer named EcoGrow Fertilizer with fertilizer name being visible in the image.**Negative prompts:** \n- Do not create unnatural poses, where the model's body appears stiff or forced. \n- Avoid awkward angles that make the human model's pose look unrealistic or uncomfortable. \n- Do not generate images where the human model is not interacting with the product (e.g., simply standing next to the product without engagement). \n- Avoid backgrounds that are cluttered, busy, or irrelevant to the use of the product, such as cityscapes, indoor settings, or unrelated objects. Letter in the product should not be distorted.
